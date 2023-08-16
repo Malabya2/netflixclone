@@ -1,0 +1,143 @@
+/* For screens smaller than 768px */
+@media (max-width: 530px) {
+   
+    
+.container1{
+    
+    margin: auto;
+    width: 100%;
+    max-width: 1200px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    padding-left: 0%;
+    
+}
+.eng{
+    padding-left: 90px;
+   
+    
+    width: 10px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.ENG{
+    margin-right: 50px;
+   
+}
+.sig{
+    margin-right: 59px;
+
+width: 23px;
+}
+.search1{
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    width: 70%;
+    margin-right: 150px;
+}
+.get{
+    height: 50px;
+   margin-left: -9%;
+   
+}
+.h1t{
+    font-size: 44px;
+}
+.body-section{
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    
+}
+
+.watch{
+    font-size: 38px;
+    font-weight: 501;
+    width: 330px;
+    background-color: aqua;
+
+}
+.left-item{
+    padding-left: 0;
+    width: 70%;
+    gap: 20px;
+}
+.right-item > video{
+    position: absolute;
+    left: 49px;
+    top: 10%;
+    z-index: -1;
+    width: 55%;
+    height: 77%;
+    
+}
+.img6{
+    width: 75%;
+    height: 100%;
+}
+.B{
+    flex-direction: column-reverse;
+    
+}
+.watch2{
+    font-size: 30px;
+    width: 350px;
+    background-color: aqua;
+}
+.st1{
+    width: 230px;
+    height: 60px;
+    top: 65%;
+    left: 30px;
+    justify-content: space-around;
+}
+.st1p{
+    inline-size: 40px;
+}
+.img{
+    inline-size: 80%;
+}
+.img7{
+    width: 97%;
+    height: 97%;
+}
+.question-box{
+    align-items: center;
+    justify-content: center;
+}
+.question-box .Q-box1 h1{
+    font-size: 30px;
+}
+.Q-box2{
+    font-size: 20px;
+}
+.h3{
+    margin-left: 15%;
+    width: 70%;
+   
+}
+.default-ltr-cache-btlj1ue1w590cc1{
+    padding-left: 0;
+    font-size: 18px;
+}
+.last2{
+    margin-right: 5%;
+    height: 40px;
+}
+.question-box .Q-box2 span{
+    font-size: 30px;
+}
+}
